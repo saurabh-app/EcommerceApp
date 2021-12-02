@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color">
+        <item>Select Color </item>
+        <item>Color Item Two</item>
+        <item>Color Item Three</item>
+    </string-array>
+    <string-array name="size">
+
+        <item>Select Size </item>
+        <item>Color Item Two</item>
+        <item>Color Item Three</item></string-array>
+</resources>
